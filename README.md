@@ -2,4 +2,4 @@
 
 <h3> My name is Brin and I'm just starting to learn how to code. 💃<br>
   
-  You can reach me <a href="https://www.brinisaac.super.site/contact"> here</a>. </h3>
+  You can reach me <a href="brinisaac.super.site/contact"> here</a>. </h3>
